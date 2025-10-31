@@ -2,8 +2,8 @@
 This project analyzes website performance metrics to understand user engagement, session trends, and traffic patterns across different marketing channels. Using Python and Jupyter Notebook, it provides insights into how users interact with a website ,identifying which channels drive the most traffic and engagement, and when users are most active.
 
 # Objectives
-	Analyze sessions, engaged sessions, and engagement rate over time.
-	Compare engaged vs non-engaged sessions across marketing channels.
+	Analyze sessions, engaged sessions, and engagement rate over time.<br>
+	Compare engaged vs non-engaged sessions across marketing channels.<br>
 	Visualize traffic distribution by hour and channel group using heatmaps.
 	Identify patterns that can improve marketing effectiveness and user experience.
 
